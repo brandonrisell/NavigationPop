@@ -29,8 +29,6 @@ namespace NavigationPop
         private void OnPopPageButtonClicked(object sender, EventArgs e)
         {
             //Task.Run(async () => await Navigation.PopAsync());
-            //Task.Run(async () => await Navigation.PopAsync());
-            //Task.Run(async () => await Navigation.PopAsync());
             //Task.Run(() => Navigation.PopAsync());
             Navigation.PopAsync();
             Navigation.PopAsync();

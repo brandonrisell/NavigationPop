@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavigationPop.iOS", "iOS\Na
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavigationPop.Droid", "Droid\NavigationPop.Droid.csproj", "{C53C8A9A-10E8-4470-B201-14F887CD0407}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavigationPop.Console", "NavigationPop.Console\NavigationPop.Console.csproj", "{2DF5A7D4-A6E6-4969-9C73-9AF5CA58D8A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,5 +55,17 @@ Global
 		{C53C8A9A-10E8-4470-B201-14F887CD0407}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{C53C8A9A-10E8-4470-B201-14F887CD0407}.Debug|iPhone.ActiveCfg = Debug|Any CPU
 		{C53C8A9A-10E8-4470-B201-14F887CD0407}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{2DF5A7D4-A6E6-4969-9C73-9AF5CA58D8A2}.Debug|Any CPU.ActiveCfg = Debug|iPhone
+		{2DF5A7D4-A6E6-4969-9C73-9AF5CA58D8A2}.Debug|Any CPU.Build.0 = Debug|iPhone
+		{2DF5A7D4-A6E6-4969-9C73-9AF5CA58D8A2}.Release|Any CPU.ActiveCfg = Release|iPhone
+		{2DF5A7D4-A6E6-4969-9C73-9AF5CA58D8A2}.Release|Any CPU.Build.0 = Release|iPhone
+		{2DF5A7D4-A6E6-4969-9C73-9AF5CA58D8A2}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhone
+		{2DF5A7D4-A6E6-4969-9C73-9AF5CA58D8A2}.Debug|iPhoneSimulator.Build.0 = Debug|iPhone
+		{2DF5A7D4-A6E6-4969-9C73-9AF5CA58D8A2}.Release|iPhone.ActiveCfg = Release|iPhone
+		{2DF5A7D4-A6E6-4969-9C73-9AF5CA58D8A2}.Release|iPhone.Build.0 = Release|iPhone
+		{2DF5A7D4-A6E6-4969-9C73-9AF5CA58D8A2}.Release|iPhoneSimulator.ActiveCfg = Release|iPhone
+		{2DF5A7D4-A6E6-4969-9C73-9AF5CA58D8A2}.Release|iPhoneSimulator.Build.0 = Release|iPhone
+		{2DF5A7D4-A6E6-4969-9C73-9AF5CA58D8A2}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{2DF5A7D4-A6E6-4969-9C73-9AF5CA58D8A2}.Debug|iPhone.Build.0 = Debug|iPhone
 	EndGlobalSection
 EndGlobal
